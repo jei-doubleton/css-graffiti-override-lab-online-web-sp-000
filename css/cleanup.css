@@ -20,5 +20,5 @@ div#wall .parent + .parent #tag-5.slick {
 }
 
 div #wall div.parent div>div+div#tag-6 {
-  /*display: none;*/
+  display: none;
 }
